@@ -2,6 +2,6 @@
 
 ## I'm currently learning GitHub, and want to figure out how to use it!
 
-This is day1 page
+This is day1.md page
 
-[Back to page 1:](https://elijahmarucheck.github.io/hello_world_2/)
+[Go to index.md page:](https://elijahmarucheck.github.io/hello_world_2/)
