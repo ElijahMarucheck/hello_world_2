@@ -2,4 +2,4 @@
 
 ## I'm currently learning GitHub, and want to figure out how to use it!
 
-[Back to page 1:][https://elijahmarucheck.github.io/hello_world_2/]
+[Back to page 1:][https://elijahmarucheck.github.io/hello_world_2/.html]
