@@ -4,4 +4,4 @@
 
 This is day1 page
 
-[Back to page 1:](https://elijahmarucheck.github.io/hello_world_2/.html)
+[Back to page 1:](https://elijahmarucheck.github.io/hello_world_2/)
